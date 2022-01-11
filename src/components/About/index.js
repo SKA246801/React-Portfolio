@@ -7,6 +7,7 @@ function About() {
             <img src={selfImg} alt='Profile Pic' className='Self'/>
             <p id='bio'>
                 I’m a full-stack developer who recently graduated from a coding bootcamp at the University of Texas at Austin.
+                I know Javascript, Python, MERN, mySQL, among other languages and frameworks.
                 Going through the bootcamp has shown me just how adaptable you need to be in this industry as technology is always evolving.
                 I am constantly teaching myself new things, expanding my knowledge and skillbase in all things programming related.
                 I am eager to see the things that I can achieve in my programming career.

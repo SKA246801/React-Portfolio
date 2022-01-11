@@ -20,6 +20,7 @@ function Resume() {
                 <h2 className='sub-headers'>INTRO</h2>
                 <p className='intro'>
                     I am a full-stack developer who recently graduated from a coding bootcamp at the University of Texas at Austin.
+                    I know Javascript, Python, MERN, mySQL, among other languages and frameworks.
                     Going through the bootcamp provided the insight as to how adaptable you need to be in this industry as technology is always evolving.
                     I am constantly teaching myself new things, expanding my knowledge and skillbase in all things programming related.
                     I am eager to see the things that I can achieve in my programming career.
@@ -53,7 +54,7 @@ function Resume() {
                     </ul>
                     <div className='project-header'>
                         <h3 className='project-title'>Team Generator</h3>
-                        <h3 className='project-title'>Video of Application in Use: https://drive.google.com/file/d/1c7z6cRhe3bRhT1qxc0m2YWSwxDDLxWcT/view</h3>
+                        <h3 className='project-title url'>Video URL: https://drive.google.com/file/d/1c7z6cRhe3bRhT1qxc0m2YWSwxDDLxWcT/view</h3>
                     </div>
                     <ul>
                         <li className='project-info'>Developed an application that allows a manager to input information of themselves as well as their team of developers</li>

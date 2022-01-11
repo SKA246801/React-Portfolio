@@ -136,16 +136,6 @@ span {
   font-size: 1.5vw;
 }
 
-/* .resume {
-  display: block;
-  margin: auto;
-  transition: 0.5s all ease-in-out;
-}
-
-.resume:hover {
-  transform: scale(1.4)
-} */
-
 .paper {
   background-color: white;
   padding: 4% 4%;
@@ -200,6 +190,10 @@ span {
 .project-title {
   color: black;
   font-size: large;
+}
+
+.url {
+ font-size: .8vw;
 }
 
 .project-info {
