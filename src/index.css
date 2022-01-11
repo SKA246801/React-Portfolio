@@ -56,18 +56,29 @@ span {
 }
 
 /* Work */
-.project-title {
+.application-title {
   text-align: center;
   font-size: 2.5vw;
   margin-bottom: 1%;
 }
 
-.project-title span {
+.application-title span {
   font-size: 1.5vw;
   cursor: text
 }
 
-.project-description {
+.repo-container {
+  margin: 1% 0;
+  text-align: center;
+}
+
+.project-repo {
+  padding: 1%;
+  background-color: black;
+  font-size: 1.5vw;
+}
+
+.application-description {
   text-align: center;
   font-size: 1.5vw;
   margin-top: .5%;

@@ -35,7 +35,7 @@ function Resume() {
                 <div className='project-section'>
                     <div className='project-header'>
                         <h3 className='project-title'>Amazon Clone</h3>
-                        <h3 className='project-title'>Full Stack Web Application</h3>
+                        <h3 className='project-title'>Live URL: clone-39f35.firebaseapp.com</h3>
                     </div>
                     <ul>
                         <li className='project-info'>A clone of Amazon's online store</li>
@@ -44,7 +44,7 @@ function Resume() {
 
                     <div className='project-header'>
                         <h3 className='project-title'>Spoti_box</h3>
-                        <h3 className='project-title'>Full Stack Web Application</h3>
+                        <h3 className='project-title'>Live URL: https://ancient-harbor-80018.herokuapp.com/</h3>
                     </div>
                     <ul>
                         <li className='project-info'>Introduced this project to 3 team members which allowed users to be able to generate a spotify playlist while interacting with one another in a live chat</li>
@@ -53,7 +53,7 @@ function Resume() {
                     </ul>
                     <div className='project-header'>
                         <h3 className='project-title'>Team Generator</h3>
-                        <h3 className='project-title'>Full Stack Web Application</h3>
+                        <h3 className='project-title'>Video of Application in Use: https://drive.google.com/file/d/1c7z6cRhe3bRhT1qxc0m2YWSwxDDLxWcT/view</h3>
                     </div>
                     <ul>
                         <li className='project-info'>Developed an application that allows a manager to input information of themselves as well as their team of developers</li>
