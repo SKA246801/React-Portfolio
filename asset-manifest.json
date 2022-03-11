@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.07f3d3b5.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.a8352566.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.a8352566.chunk.js.map",
-    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.54d0d5e2.js",
-    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.54d0d5e2.js.map",
+    "main.css": "/React-Portfolio/static/css/main.5cf1205d.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.d2531c84.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.d2531c84.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.8e48e6aa.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.8e48e6aa.js.map",
     "static/js/2.907fca69.chunk.js": "/React-Portfolio/static/js/2.907fca69.chunk.js",
     "static/js/2.907fca69.chunk.js.map": "/React-Portfolio/static/js/2.907fca69.chunk.js.map",
-    "static/js/3.a769b107.chunk.js": "/React-Portfolio/static/js/3.a769b107.chunk.js",
-    "static/js/3.a769b107.chunk.js.map": "/React-Portfolio/static/js/3.a769b107.chunk.js.map",
+    "static/js/3.2b52e96d.chunk.js": "/React-Portfolio/static/js/3.2b52e96d.chunk.js",
+    "static/js/3.2b52e96d.chunk.js.map": "/React-Portfolio/static/js/3.2b52e96d.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "static/css/main.07f3d3b5.chunk.css.map": "/React-Portfolio/static/css/main.07f3d3b5.chunk.css.map",
+    "static/css/main.5cf1205d.chunk.css.map": "/React-Portfolio/static/css/main.5cf1205d.chunk.css.map",
     "static/js/2.907fca69.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.907fca69.chunk.js.LICENSE.txt",
+    "static/media/Resume.pdf": "/React-Portfolio/static/media/Resume.586f7cf9.pdf",
     "static/media/Resume.jpg": "/React-Portfolio/static/media/Resume.738ce73b.jpg",
-    "static/media/Resume.pdf": "/React-Portfolio/static/media/Resume.a8b64fc2.pdf",
+    "static/media/Self.jpg": "/React-Portfolio/static/media/Self.36f05535.jpg",
     "static/media/amazon-clone.jpg": "/React-Portfolio/static/media/amazon-clone.1c9be0b2.jpg",
     "static/media/employee-tracker.jpg": "/React-Portfolio/static/media/employee-tracker.ec8ac734.jpg",
     "static/media/marvel-quiz.jpg": "/React-Portfolio/static/media/marvel-quiz.2963ad3b.jpg",
@@ -24,9 +25,9 @@
     "static/media/weather.jpg": "/React-Portfolio/static/media/weather.1eb9eb7f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.54d0d5e2.js",
+    "static/js/runtime-main.8e48e6aa.js",
     "static/js/2.907fca69.chunk.js",
-    "static/css/main.07f3d3b5.chunk.css",
-    "static/js/main.a8352566.chunk.js"
+    "static/css/main.5cf1205d.chunk.css",
+    "static/js/main.d2531c84.chunk.js"
   ]
 }
