@@ -93,6 +93,7 @@ span {
 }
 
 .project-img {
+  object-fit: contain;
   display: block;
   margin: auto;
   width: 45vw;
