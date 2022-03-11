@@ -7,7 +7,7 @@ const AllWork = () => {
         {
             title: 'Amazon Clone',
             type: 'Fullstack Application',
-            description: "This application is a clone of Amazons online ecommerce store",
+            description: "This application is a clone of Amazon's online ecommerce store",
             link: 'https://clone-39f35.web.app/',
             repo: 'https://github.com/SKA246801/amazon-clone',
             id: 'amazon-clone'

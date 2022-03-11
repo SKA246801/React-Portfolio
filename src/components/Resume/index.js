@@ -28,9 +28,9 @@ function Resume() {
                 <h2 className='sub-headers'>TECHNICAL SKILLS</h2>
                 <div className='skill-section'>
                     <p className='skills'><span className='skill-title'>Languages:</span> Javascript, Python, HTML/CSS, SQL, GraphQL</p>
-                    <p className='skills'><span className='skill-title'>Software & Frameworks:</span> Node.js, Express, React.js, Bootstrap, Git, Visual Studio Code, Sequelize, Handlebars.js, Github</p>
+                    <p className='skills'><span className='skill-title'>Software & Frameworks:</span> Windows, Linux, Virtual Machines, Node.js, Express, React.js, Bootstrap, Git, Visual Studio Code, Sequelize, Handlebars.js, Github</p>
                     <p className='skills'><span className='skill-title'>Databases:</span> MySQL, MongoDB</p>
-                    <p className='skills'><span className='skill-title'>Software-Design-Patterns:</span> Model-View-Controller (MVC)</p>
+                    <p className='skills'><span className='skill-title'>CLoud:</span> Azure, Firebase</p>
                 </div>
                 <h2 className='sub-headers'>PROJECTS</h2>
                 <div className='project-section'>
@@ -44,6 +44,14 @@ function Resume() {
                     </ul>
 
                     <div className='project-header'>
+                        <h3 className='project-title'>Instagram Clone</h3>
+                        <h3 className='project-title'>Live URL: instagram-clone-8a613.firebaseapp.com</h3>
+                    </div>
+                    <ul>
+                        <li className='project-info'>A clone of Instagram's social media site</li>
+                        <li className='project-info'>Uses firebase and React.js</li>
+                    </ul>
+                    <div className='project-header'>
                         <h3 className='project-title'>Spoti_box</h3>
                         <h3 className='project-title'>Live URL: https://ancient-harbor-80018.herokuapp.com/</h3>
                     </div>
@@ -52,15 +60,19 @@ function Resume() {
                         <li className='project-info'>Uses Node.js and Object-oriented-programming principles</li>
                         <li className='project-info'>Used socket.io for the live chat</li>
                     </ul>
-                    <div className='project-header'>
-                        <h3 className='project-title'>Team Generator</h3>
-                        <h3 className='project-title url'>Video URL: https://drive.google.com/file/d/1c7z6cRhe3bRhT1qxc0m2YWSwxDDLxWcT/view</h3>
-                    </div>
-                    <ul>
-                        <li className='project-info'>Developed an application that allows a manager to input information of themselves as well as their team of developers</li>
-                    </ul>
                 </div>
                 <h2 className='sub-headers'>WORK EXPERIENCE</h2>
+                    <div className='work-header'>
+                        <h3 className='work-title'>Seminaut</h3>
+                        <h3 className='work-title'>Austin, Texas</h3>
+                    </div>
+                    <div className='work-header'>
+                        <p className='work-title'>Software Developer Intern</p>
+                        <p className='work-title'>March 2022 - Present</p>
+                    </div>
+                    <ul>
+                        <li className='work-info'>Working in a team to build a website in order to connect the world of gamers</li>
+                    </ul>
                     <div className='work-header'>
                         <h3 className='work-title'>Doordash</h3>
                         <h3 className='work-title'>Austin, Texas</h3>
@@ -70,7 +82,7 @@ function Resume() {
                         <p className='work-title'>February 2021 - Present</p>
                     </div>
                     <ul>
-                        <li className='work-info'>1700 deliveries and a 5 star rating completed by providing great customer service ensuring every customer’s needs are met</li>
+                        <li className='work-info'>2700 deliveries and a 5 star rating completed by providing great customer service ensuring every customer’s needs are met</li>
                     </ul>
                 <h2 className='sub-headers'>EDUCATION</h2>
                     <div className='education-header'>
@@ -93,7 +105,6 @@ function Resume() {
                         <p className='education-title'>August 2020 - Present</p>
                     </div>
                     <ul>
-                        <li className='education-info'>Pursuing a Bachelor's Degree in Computational Biology</li>
                         <li className='education-info'>GPA: 3.4/4.0</li>
                     </ul>
             </div>
