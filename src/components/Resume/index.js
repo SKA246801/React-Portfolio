@@ -30,7 +30,7 @@ function Resume() {
                     <p className='skills'><span className='skill-title'>Languages:</span> Javascript, Python, HTML/CSS, SQL, GraphQL</p>
                     <p className='skills'><span className='skill-title'>Software & Frameworks:</span> Windows, Linux, Virtual Machines, Node.js, Express, React.js, Bootstrap, Git, Visual Studio Code, Sequelize, Handlebars.js, Github</p>
                     <p className='skills'><span className='skill-title'>Databases:</span> MySQL, MongoDB</p>
-                    <p className='skills'><span className='skill-title'>CLoud:</span> Azure, Firebase</p>
+                    <p className='skills'><span className='skill-title'>Cloud:</span> Azure, Firebase</p>
                 </div>
                 <h2 className='sub-headers'>PROJECTS</h2>
                 <div className='project-section'>
