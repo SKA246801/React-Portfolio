@@ -13,6 +13,14 @@ const AllWork = () => {
             id: 'amazon-clone'
         },
         {
+            title: 'Instagram Clone',
+            type: 'Fullstack Application',
+            description: "This application is a clone of Instagram's social media site",
+            link: 'instagram-clone-8a613.firebaseapp.com',
+            repo: 'https://github.com/SKA246801/instagram-clone',
+            id: 'instagram-clone'
+        },
+        {
             title: 'Employee Tracker',
             type: 'Backend Application',
             description: 'This application allows a manager to have a structured database with their employees and their corresponding data.',

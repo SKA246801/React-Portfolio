@@ -100,7 +100,13 @@ span {
   height: 30vh;
 }
 
+.project {
+  border-bottom: solid 10px black;
+  margin-bottom: 20px;
+}
+
 /* Contact */
+
 .sub-title {
   font-size: 3vw;
   text-align: center;

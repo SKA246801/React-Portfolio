@@ -3,7 +3,7 @@ import React from 'react'
 function Project({ work }) {
     const { title, type, description, link, repo, id } = work
     return (
-        <section key={title}>
+        <section className='project' key={title}>
             <div>
                 <h3 className='application-title'>{title}<br></br><span>{type}</span></h3>
             </div>
