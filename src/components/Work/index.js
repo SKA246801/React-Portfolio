@@ -16,7 +16,7 @@ const AllWork = () => {
             title: 'Instagram Clone',
             type: 'Fullstack Application',
             description: "This application is a clone of Instagram's social media site",
-            link: 'instagram-clone-8a613.firebaseapp.com',
+            link: 'https://instagram-clone-8a613.firebaseapp.com',
             repo: 'https://github.com/SKA246801/instagram-clone',
             id: 'instagram-clone'
         },

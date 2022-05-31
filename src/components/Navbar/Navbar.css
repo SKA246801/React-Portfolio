@@ -1,0 +1,36 @@
+.navbar {
+  width: 100%;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.left {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  font-size: 40px;
+  margin-right: 20px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.nav-tags {
+  font-size: 20px;
+  margin-right: 20px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+}
+
+.right {
+  display: flex;
+  align-items: center;
+}
