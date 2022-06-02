@@ -1,0 +1,48 @@
+.application-title {
+  text-align: center;
+  font-size: 2.5vw;
+  margin-bottom: 1%;
+}
+
+.application-title span {
+  font-size: 1.5vw;
+  cursor: text;
+}
+
+.repo-container {
+  margin: 1% 0;
+  text-align: center;
+}
+
+.project-repo {
+  padding: 1%;
+  background-color: black;
+  font-size: 1.5vw;
+}
+
+.application-description {
+  text-align: center;
+  font-size: 1.5vw;
+  margin-top: 0.5%;
+  margin-bottom: 2%;
+}
+
+#work section a {
+  text-decoration: none;
+  margin: 10px;
+  height: 200px;
+  width: 100%;
+}
+
+.project-img {
+  object-fit: contain;
+  display: block;
+  margin: auto;
+  width: 45vw;
+  height: 30vh;
+}
+
+.project {
+  border-bottom: solid 10px black;
+  margin-bottom: 20px;
+}

@@ -1,4 +1,4 @@
-import React from 'react'
+import './Projects.css'
 
 function Project({ work }) {
   const { title, type, description, link, repo, id } = work

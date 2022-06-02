@@ -1,5 +1,5 @@
-import react, { useState } from 'react'
-import Project from '../Projects'
+import React, { useState } from 'react'
+import Project from '../Projects/Projects'
 
 const AllWork = () => {
   const [work] = useState([
