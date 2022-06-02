@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.9a73921c.css",
-    "main.js": "/React-Portfolio/static/js/main.d4f00d36.js",
+    "main.js": "/React-Portfolio/static/js/main.2b70f357.js",
     "static/media/Self.jpg": "/React-Portfolio/static/media/Self.36f05535507f447f8e57.jpg",
     "static/media/Resume.jpg": "/React-Portfolio/static/media/Resume.738ce73b07717789e338.jpg",
     "static/media/Resume.pdf": "/React-Portfolio/static/media/Resume.586f7cf9f0d5431bc590.pdf",
     "static/media/marvel-quiz.jpg": "/React-Portfolio/static/media/marvel-quiz.2963ad3b06ba6eca1b70.jpg",
+    "static/media/netflix-clone.jpg": "/React-Portfolio/static/media/netflix-clone.e6642f3100dc67120089.jpg",
     "static/media/amazon-clone.jpg": "/React-Portfolio/static/media/amazon-clone.1c9be0b254d3ff1dc9e9.jpg",
     "static/media/weather.jpg": "/React-Portfolio/static/media/weather.1eb9eb7fa30a02861544.jpg",
     "static/media/employee-tracker.jpg": "/React-Portfolio/static/media/employee-tracker.ec8ac734dd95b852229c.jpg",
@@ -15,10 +16,10 @@
     "static/media/password-generator.jpg": "/React-Portfolio/static/media/password-generator.96cff7437f7682bf12c6.jpg",
     "index.html": "/React-Portfolio/index.html",
     "main.9a73921c.css.map": "/React-Portfolio/static/css/main.9a73921c.css.map",
-    "main.d4f00d36.js.map": "/React-Portfolio/static/js/main.d4f00d36.js.map"
+    "main.2b70f357.js.map": "/React-Portfolio/static/js/main.2b70f357.js.map"
   },
   "entrypoints": [
     "static/css/main.9a73921c.css",
-    "static/js/main.d4f00d36.js"
+    "static/js/main.2b70f357.js"
   ]
 }
