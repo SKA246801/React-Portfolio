@@ -10,21 +10,6 @@ html {
   overflow-x: hidden;
 }
 
-/* About Section */
-#bio {
-  margin-top: 1%;
-  font-size: 2vw;
-  text-align: center;
-}
-
-.Self {
-  width: 15%;
-  height: 35%;
-  display: block;
-  margin: auto;
-  margin-top: 45px;
-}
-
 /* Work */
 .application-title {
   text-align: center;

@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import $ from 'jquery'
 
 function Background() {
@@ -58,8 +58,9 @@ function Background() {
     $('.rain.front-row').append(drops)
     $('.rain.back-row').append(backDrops)
   }
-
-  makeItRain()
+  useEffect(() => {
+    makeItRain()
+  })
 
   return (
     <section>

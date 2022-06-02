@@ -8,12 +8,12 @@ function Navbar() {
   return (
     <div className='navbar'>
       <div className='left'>
-        <Link to='/React-Portfolio/' className='link'>
+        <Link to='/React-Portfolio' className='link'>
           <span className='logo'>Sebastian</span>
         </Link>
       </div>
       <div className='right'>
-        <Link to='/React-Portfolio/' className='link'>
+        <Link to='/React-Portfolio' className='link'>
           <span className='nav-tags'>About Me</span>
         </Link>
         <Link to='/React-Portfolio/work' className='link'>

@@ -1,11 +1,11 @@
 import React from 'react'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
-import About from './components/About/index'
+import About from './components/About/About'
 import Work from './components/Work/index'
 import Contact from './components/Contact/index'
 import Resume from './components/Resume/index'
 import Navbar from './components/Navbar/Navbar'
-import Background from './components/Background'
+import Background from './components/Background/Background'
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
       <Background />
       <div className='App'>
         <Routes>
-          <Route exact path='/React-Portfolio/' element={<About />} />
+          <Route exact path='/React-Portfolio' element={<About />} />
           <Route path='/React-Portfolio/work' element={<Work />} />
           <Route path='/React-Portfolio/contact' element={<Contact />} />
           <Route path='/React-Portfolio/resume' element={<Resume />} />
