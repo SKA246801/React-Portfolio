@@ -8,21 +8,21 @@ function Navbar() {
   return (
     <div className='navbar'>
       <div className='left'>
-        <Link to='/' className='link'>
+        <Link to='/React-Portfolio/' className='link'>
           <span className='logo'>Sebastian</span>
         </Link>
       </div>
       <div className='right'>
-        <Link to='/' className='link'>
+        <Link to='/React-Portfolio/' className='link'>
           <span className='nav-tags'>About Me</span>
         </Link>
-        <Link to='/work' className='link'>
+        <Link to='/React-Portfolio/work' className='link'>
           <span className='nav-tags'>Work</span>
         </Link>
-        <Link to='/contact' className='link'>
+        <Link to='/React-Portfolio/contact' className='link'>
           <span className='nav-tags'>Contact</span>
         </Link>
-        <Link to='/resume' className='link'>
+        <Link to='/React-Portfolio/resume' className='link'>
           <span className='nav-tags'>Resume</span>
         </Link>
       </div>

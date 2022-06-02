@@ -14,10 +14,10 @@ function App() {
       <Background />
       <div className='App'>
         <Routes>
-          <Route exact path='/' element={<About />} />
-          <Route path='/work' element={<Work />} />
-          <Route path='/contact' element={<Contact />} />
-          <Route path='/resume' element={<Resume />} />
+          <Route exact path='/React-Portfolio/' element={<About />} />
+          <Route path='/React-Portfolio/work' element={<Work />} />
+          <Route path='/React-Portfolio/contact' element={<Contact />} />
+          <Route path='/React-Portfolio/resume' element={<Resume />} />
         </Routes>
       </div>
     </Router>
