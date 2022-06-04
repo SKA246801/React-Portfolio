@@ -19,6 +19,10 @@
   white-space: nowrap;
 }
 
+.mobile-icon {
+  display: none;
+}
+
 .nav-tags {
   font-size: 25px;
   margin-right: 20px;
@@ -34,4 +38,29 @@
 .right {
   display: flex;
   align-items: center;
+}
+
+@media only screen and (max-width: 960px) {
+  .navbar {
+    transition: 0.8s all ease;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .mobile-icon {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(-100%, 60%);
+    font-size: 1.8rem;
+    cursor: pointer;
+  }
+  .mobile-icon:hover {
+    color: white;
+  }
+
+  .right {
+    display: none;
+  }
 }

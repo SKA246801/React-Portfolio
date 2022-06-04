@@ -1,16 +1,18 @@
 import React from 'react'
 import './Navbar.css'
-
-// material ui icons
 import { Link } from 'react-router-dom'
+import { FaBars } from 'react-icons/fa'
 
-function Navbar() {
+function Navbar({ toggle }) {
   return (
     <div className='navbar'>
       <div className='left'>
         <Link to='/React-Portfolio' className='link'>
           <span className='logo'>Sebastian</span>
         </Link>
+      </div>
+      <div className='mobile-icon' onClick={toggle}>
+        <FaBars />
       </div>
       <div className='right'>
         <Link to='/React-Portfolio' className='link'>
