@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react'
+import './Background.css'
 import $ from 'jquery'
 
 function Background() {

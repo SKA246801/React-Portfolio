@@ -1,0 +1,107 @@
+/* Resume */
+
+.resume-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.download-div {
+  text-align: center;
+  margin-bottom: 1%;
+}
+
+.download {
+  text-decoration: none;
+  font-size: 1.5vw;
+}
+
+.paper {
+  background-color: white;
+  padding: 4% 4%;
+  display: flex;
+  flex-direction: column;
+  width: 700px;
+}
+
+.top-section {
+  text-align: center;
+  margin-bottom: 4%;
+}
+
+.name {
+  color: black;
+  font-size: xx-large;
+}
+
+.contact {
+  color: black;
+}
+
+.sub-headers {
+  color: black;
+  border-bottom: 2px solid black;
+  margin: 2% 0;
+}
+
+.intro {
+  color: black;
+  text-align: center;
+}
+
+.skills {
+  color: black;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2%;
+}
+
+.skill-title {
+  color: black;
+  font-weight: bold;
+  margin-bottom: 1%;
+}
+
+.project-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.project-title {
+  color: black;
+  font-size: large;
+}
+
+.project-info {
+  color: black;
+  margin-left: 5%;
+  font-size: medium;
+}
+
+.work-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.work-title {
+  color: black;
+}
+
+.work-info {
+  color: black;
+  margin-left: 5%;
+}
+
+.education-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.education-title {
+  color: black;
+}
+
+.education-info {
+  color: black;
+  margin-left: 5%;
+}
