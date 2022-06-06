@@ -45,14 +45,6 @@ const AllWork = () => {
       id: 'team-generator',
     },
     {
-      title: 'Spoti_box',
-      type: 'Fullstack Application',
-      description: "This application has a live chat that you can use to chat with your friends while generating a playlist using Spotify's API.",
-      link: 'https://ancient-harbor-80018.herokuapp.com/',
-      repo: 'https://github.com/SKA246801/Spoti-box',
-      id: 'spoti_box',
-    },
-    {
       title: 'Tech Blog',
       type: 'Fullstack Application',
       description: 'This is a blog site in which a user can create a login and post their thoughts. Other users can view and comment on these post.',

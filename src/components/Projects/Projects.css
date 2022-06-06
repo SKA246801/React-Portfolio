@@ -36,9 +36,8 @@
 .project-img {
   object-fit: contain;
   display: block;
-  margin: auto;
-  width: 45vw;
-  height: 30vh;
+  margin: 10px auto;
+  width: 450px;
 }
 
 .project {
@@ -46,4 +45,20 @@
   padding: 10px 0 0 0;
 }
 
-/* @media only screen and (max-width: ) {} */
+@media only screen and (max-width: 500px) {
+  .project-img {
+    width: 350px;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .project-img {
+    width: 300px;
+  }
+}
+
+@media only screen and (max-width: 301px) {
+  .project-img {
+    width: 275px;
+  }
+}
