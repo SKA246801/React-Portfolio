@@ -115,7 +115,7 @@
 
 @media only screen and (max-width: 800px) {
   .paper {
-    width: 85vw;
+    width: 95vw;
   }
 }
 
@@ -126,11 +126,22 @@
   }
 }
 
-@media only screen and (max-width: 425px) {
-  .education-header {
-    display: flex;
-    flex-direction: column;
-    gap: 5px;
-    margin: 0 0 5px 0;
+@media only screen and (max-width: 400px) {
+  .education-title {
+    font-size: 16px;
+  }
+  p.education-title {
+    font-size: 15px;
+  }
+  .education-info {
+    margin: 0 0 15px 35px;
+  }
+
+  .work-info {
+    font-size: 15px;
+  }
+
+  p.work-title {
+    font-size: 13px;
   }
 }
