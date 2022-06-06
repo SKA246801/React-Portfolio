@@ -19,7 +19,6 @@ function Project({ work }) {
           Github Repository
         </a>
       </div>
-      <img src=''></img>
       <p className='application-description'>{description}</p>
     </section>
   )

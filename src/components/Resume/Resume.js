@@ -32,7 +32,7 @@ function Resume() {
           </p>
           <p className='skills'>
             <span className='skill-title'>Software & Frameworks:</span> Windows, Linux, Virtual Machines, Node.js, Express, React.js, Bootstrap, Git,
-            Visual Studio Code, Sequelize, Handlebars.js, Github
+            Visual Studio Code, Sequelize, Github
           </p>
           <p className='skills'>
             <span className='skill-title'>Databases:</span> MySQL, MongoDB
@@ -44,8 +44,27 @@ function Resume() {
         <h2 className='sub-headers'>PROJECTS</h2>
         <div className='project-section'>
           <div className='project-header'>
+            <h3 className='project-title'>Netflix Clone</h3>
+            <h3 className='project-link'>
+              Live URL:{' '}
+              <a href='https://sebastians-netflix-clone.herokuapp.com' target='_blank' rel='noreferrer'>
+                https://sebastians-netflix-clone.herokuapp.com
+              </a>
+            </h3>
+          </div>
+          <ul>
+            <li className='project-info'>A clone of Netflix's online streaming service</li>
+            <li className='project-info'>Uses the entire MERN stack</li>
+            <li className='project-info'>There is an admin dashboard for CRUD operations of the site</li>
+          </ul>
+          <div className='project-header'>
             <h3 className='project-title'>Amazon Clone</h3>
-            <h3 className='project-title'>Live URL: clone-39f35.firebaseapp.com</h3>
+            <h3 className='project-link'>
+              Live URL:{' '}
+              <a href='https://clone-39f35.firebaseapp.com' target='_blank' rel='noreferrer'>
+                https://clone-39f35.firebaseapp.com
+              </a>
+            </h3>
           </div>
           <ul>
             <li className='project-info'>A clone of Amazon's online store</li>
@@ -54,23 +73,16 @@ function Resume() {
 
           <div className='project-header'>
             <h3 className='project-title'>Instagram Clone</h3>
-            <h3 className='project-title'>Live URL: instagram-clone-8a613.firebaseapp.com</h3>
+            <h3 className='project-link'>
+              Live URL:{' '}
+              <a href='https://instagram-clone-8a613.firebaseapp.com' target='_blank' rel='noreferrer'>
+                https://instagram-clone-8a613.firebaseapp.com
+              </a>
+            </h3>
           </div>
           <ul>
             <li className='project-info'>A clone of Instagram's social media site</li>
             <li className='project-info'>Uses firebase and React.js</li>
-          </ul>
-          <div className='project-header'>
-            <h3 className='project-title'>Spoti_box</h3>
-            <h3 className='project-title'>Live URL: https://ancient-harbor-80018.herokuapp.com/</h3>
-          </div>
-          <ul>
-            <li className='project-info'>
-              Introduced this project to 3 team members which allowed users to be able to generate a spotify playlist while interacting with one
-              another in a live chat
-            </li>
-            <li className='project-info'>Uses Node.js and Object-oriented-programming principles</li>
-            <li className='project-info'>Used socket.io for the live chat</li>
           </ul>
         </div>
         <h2 className='sub-headers'>WORK EXPERIENCE</h2>
@@ -95,7 +107,7 @@ function Resume() {
         </div>
         <ul>
           <li className='work-info'>
-            2700 deliveries and a 5 star rating completed by providing great customer service ensuring every customer’s needs are met
+            3200 deliveries and a 5 star rating completed by providing great customer service ensuring every customer’s needs are met
           </li>
         </ul>
         <h2 className='sub-headers'>EDUCATION</h2>
