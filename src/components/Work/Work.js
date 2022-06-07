@@ -7,7 +7,7 @@ const AllWork = () => {
       title: 'Netflix Clone',
       type: 'Fullstack Application',
       description: "This application is a clone of Netflix's streaming service",
-      link: 'https://murmuring-falls-30800.herokuapp.com/',
+      link: 'https://sebastians-netflix-clone.herokuapp.com',
       repo: 'https://github.com/SKA246801/Netflix-Clone',
       id: 'netflix-clone',
     },

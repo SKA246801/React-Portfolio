@@ -38,7 +38,7 @@ function Resume() {
             <span className='skill-title'>Databases:</span> MySQL, MongoDB
           </p>
           <p className='skills'>
-            <span className='skill-title'>Cloud:</span> Azure, Firebase
+            <span className='skill-title'>Cloud:</span> Firebase
           </p>
         </div>
         <h2 className='sub-headers'>PROJECTS</h2>
@@ -91,7 +91,7 @@ function Resume() {
           <h3 className='work-title'>Austin, Texas</h3>
         </div>
         <div className='work-header'>
-          <p className='work-title'>Software Developer Intern</p>
+          <p className='work-title'>Front End Developer</p>
           <p className='work-title'>March 2022 - Present</p>
         </div>
         <ul>
