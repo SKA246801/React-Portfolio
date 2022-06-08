@@ -95,7 +95,9 @@ function Resume() {
           <p className='work-title'>March 2022 - Present</p>
         </div>
         <ul>
-          <li className='work-info'>Working in a team to build a website in order to connect the world of gamers</li>
+          <li className='work-info'>Leading a group of developers in order to help them gain the experience they need to be successful</li>
+          <li className='work-info'>Working on all aspects of the site to give the best consumer experience possible</li>
+          <li className='work-info'>A part of a team to build a website in order to connect the world of gamers</li>
         </ul>
         <div className='work-header'>
           <h3 className='work-title'>Doordash</h3>
