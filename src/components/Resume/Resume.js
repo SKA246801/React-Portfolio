@@ -91,7 +91,7 @@ function Resume() {
           <h3 className='work-title'>Austin, Texas</h3>
         </div>
         <div className='work-header'>
-          <p className='work-title'>Front End Developer</p>
+          <p className='work-title'>Lead Front End Developer</p>
           <p className='work-title'>March 2022 - Present</p>
         </div>
         <ul>
