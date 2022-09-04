@@ -7,10 +7,10 @@ function About() {
     <section>
       <img src={selfImg} alt='Profile Pic' className='Self' />
       <p id='bio'>
-        I’m a full-stack developer who graduated from a coding bootcamp at the University of Texas at Austin. I am also currently pursuing my
-        bachelor's degree at UT. I know Javascript, Python, MERN, mySQL, among other languages and frameworks. Going through the bootcamp has shown me
-        just how adaptable you need to be in this industry as technology is always evolving. I am constantly teaching myself new things, expanding my
-        knowledge and skillbase in all things programming related. I am eager to see the things that I can achieve in my programming career.
+        Sebastian Alvarado became a Full Stack Developer in a coding bootcamp at the University of Texas at Austin. He is an undergrad at UT Austin
+        majoring in Computational Biology. Sebastian is constantly learning new things and is currently diving into cybersecurity. Through diligence
+        and hard work, he was able to prove himself to the Directors of Seminaut Inc. and joined the board. Now, he is the Guild Development Director
+        responsible for managing the entire development department on a day-to-day basis.
         <br></br>
         <br></br>{' '}
         <q>
