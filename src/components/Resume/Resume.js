@@ -20,10 +20,10 @@ function Resume() {
 
         <h2 className='sub-headers'>INTRO</h2>
         <p className='intro'>
-          I am a full-stack developer who recently graduated from a coding bootcamp at the University of Texas at Austin. I know Javascript, Python,
-          MERN, mySQL, among other languages and frameworks. Going through the bootcamp provided the insight as to how adaptable you need to be in
-          this industry as technology is always evolving. I am constantly teaching myself new things, expanding my knowledge and skillbase in all
-          things programming related. I am eager to see the things that I can achieve in my programming career.
+          Sebastian Alvarado became a Full Stack Developer in a coding bootcamp at the University of Texas at Austin. He is an undergrad at UT Austin
+          majoring in Computational Biology. Sebastian is constantly learning new things and is currently diving into cybersecurity. Through diligence
+          and hard work, he was able to prove himself to the Directors of Seminaut Inc. and joined the board. Now, he is the Guild Development
+          Director responsible for managing the entire development department on a day-to-day basis.
         </p>
         <h2 className='sub-headers'>TECHNICAL SKILLS</h2>
         <div className='skill-section'>
@@ -31,8 +31,8 @@ function Resume() {
             <span className='skill-title'>Languages:</span> Javascript, Python, HTML/CSS, SQL, GraphQL
           </p>
           <p className='skills'>
-            <span className='skill-title'>Software & Frameworks:</span> Windows, Linux, Virtual Machines, Node.js, Express, React.js, Bootstrap, Git,
-            Visual Studio Code, Sequelize, Github
+            <span className='skill-title'>Software & Frameworks:</span> Windows, Linux, Virtual Machines, Node.js, SQLAlchemy, Flask, Express,
+            React.js, Bootstrap, Git, Visual Studio Code, Sequelize, GitHub, GitLab
           </p>
           <p className='skills'>
             <span className='skill-title'>Databases:</span> MySQL, MongoDB
@@ -91,8 +91,10 @@ function Resume() {
           <h3 className='work-title'>Austin, Texas</h3>
         </div>
         <div className='work-header'>
-          <p className='work-title'>Lead Front End Developer</p>
-          <p className='work-title'>March 2022 - Present</p>
+          <p className='work-title'>
+            <i>Guild Development Director</i>
+          </p>
+          <p className='work-title'>September 2022 - Present</p>
         </div>
         <ul>
           <li className='work-info'>Leading a group of developers in order to help them gain the experience they need to be successful</li>
@@ -100,17 +102,39 @@ function Resume() {
           <li className='work-info'>A part of a team to build a website in order to connect the world of gamers</li>
         </ul>
         <div className='work-header'>
-          <h3 className='work-title'>Doordash</h3>
+          <p className='work-title'>
+            <i>Lead Front End Developer</i>
+          </p>
+          <p className='work-title'>June 2022 - September 2022</p>
+        </div>
+        <ul>
+          <li className='work-info'>Leading a group of developers in order to help them gain the experience they need to be successful</li>
+          <li className='work-info'>Working on all aspects of the site to give the best consumer experience possible</li>
+          <li className='work-info'>A part of a team to build a website in order to connect the world of gamers</li>
+        </ul>
+        <div className='work-header'>
+          <p className='work-title'>
+            <i>Software Developer Intern</i>
+          </p>
+          <p className='work-title'>March 2022 - June 2022</p>
+        </div>
+        <ul>
+          <li className='work-info'>Leading a group of developers in order to help them gain the experience they need to be successful</li>
+          <li className='work-info'>Working on all aspects of the site to give the best consumer experience possible</li>
+          <li className='work-info'>A part of a team to build a website in order to connect the world of gamers</li>
+        </ul>
+        <div className='work-header'>
+          <h3 className='work-title'>2U</h3>
           <h3 className='work-title'>Austin, Texas</h3>
         </div>
         <div className='work-header'>
-          <p className='work-title'>Delivery Driver</p>
-          <p className='work-title'>February 2021 - Present</p>
+          <p className='work-title'>
+            <i>Learning Assistant</i>
+          </p>
+          <p className='work-title'> August 2022 - Present</p>
         </div>
         <ul>
-          <li className='work-info'>
-            3200 deliveries and a 5 star rating completed by providing great customer service ensuring every customer’s needs are met
-          </li>
+          <li className='work-info'>Assisting Coding Bootcamp students in debugging their programs</li>
         </ul>
         <h2 className='sub-headers'>EDUCATION</h2>
         <div className='education-header'>
@@ -119,7 +143,7 @@ function Resume() {
         </div>
         <div className='education-header'>
           <p className='education-title'>Fullstack Engineering bootcamp</p>
-          <p className='education-title'>August 2021</p>
+          <p className='education-title'>March 2021 - August 2021</p>
         </div>
         <ul>
           <li className='education-info'>
